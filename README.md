@@ -31,7 +31,6 @@ I build automated tools focused on offensive security, penetration testing, and 
 
 ## 🤝 Let’s Collaborate
 - 🧠 Open-source offensive tools
-- 🎯 PoC development for new CVEs
 - 🔗 IoT & hardware hacking projects
 
 ---
