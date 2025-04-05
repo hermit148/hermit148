@@ -37,6 +37,6 @@ I build automated tools focused on offensive security, penetration testing, and 
 ---
 
 ## 📫 Reach Me
-On Somewhere on earth
+Somewhere on earth
 
 ---
