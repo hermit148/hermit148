@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Hermit
+# 👋 Hey, I'm Ashwin
 
 🚨 Cybersecurity Analyst | 🔐 Security Researcher | 📡 IoT Tool Developer  
 
@@ -23,8 +23,7 @@ I build automated tools focused on offensive security, penetration testing, and 
 ---
 
 ## 🚀 Currently Learning
-- Advanced red teaming techniques  
-- Reverse engineering and firmware exploitation  
+- Advanced red teaming techniques   
 - Python + Bash scripting for automated attack chains  
 
 ---
