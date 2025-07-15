@@ -13,14 +13,6 @@ I build automated tools focused on offensive security, penetration testing, and 
 
 ---
 
-## 📦 Featured Projects
-> 🔧 More tools coming soon...
-
-- 🔍 **AutoReconX** – A recon automation tool for bug bounty and internal assessments
-- 📡 **ESP32 Deauther++** – Enhanced deauthentication + signal jammer built on ESP32
-- 🐚 **PayloadDrop** – Custom payload builder for USB/Rubber Ducky-style attacks
-
----
 
 ## 🚀 Currently Learning
 - Advanced red teaming techniques   
