@@ -8,7 +8,7 @@ I build automated tools focused on offensive security, penetration testing, and 
 
 ## 🧰 What I Do
 - 💻 Develop tools for **automated reconnaissance**, **vulnerability scanning**, and **exploit delivery** with Chatgpt Ofcourse:) 
-- 📟 Build **IoT and wireless security tools** using ESP32, nRF modules, and Kali NetHunter
+- 📟 Build **IoT and wireless security tools** using ESP32, nRF modules
 - 🧪 Conduct **real-world testing**, red teaming, and offensive R&D
 
 ---
@@ -16,7 +16,7 @@ I build automated tools focused on offensive security, penetration testing, and 
 
 ## 🚀 Currently Learning
 - Advanced red teaming techniques   
-- Python + Bash scripting for automated attack chains  
+- Python scripting for automated attack chains  
 
 ---
 
