@@ -36,6 +36,9 @@ I believe in **building tools**, understanding attacks deeply, and sharing knowl
   <img src="https://img.shields.io/badge/M5Stack-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LILYGO-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/IoT_Security-FF0000?style=for-the-badge&color=000000"/>
+  <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&color=000000"/>
+  <img src="https://img.shields.io/badge/Nuclei-7B3FE4?style=for-the-badge&color=000000"/>
 
   </div>
 </div>
